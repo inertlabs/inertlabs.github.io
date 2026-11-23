@@ -1,0 +1,6 @@
+exclude:
+  - LICENSE
+  - Makefile
+  - README.md
+  - logo/gen_logo.py
+  - logo/render.sh
